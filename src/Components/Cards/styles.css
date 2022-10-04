@@ -122,10 +122,12 @@
     }
 
     .card {
-        padding: 8px;
+        padding: 5px;
         width: 130px;
         height: 260px;
+        justify-content: flex-start;
         z-index: 1;
+        margin: 8px
     }
 
     .card h3 {
@@ -142,8 +144,8 @@
     .card p {
         margin: 5px 0px;
         text-align: justify;
-        font-size: 0.5rem;
-        height: 50px;
+        font-size: 0.4rem;
+        height: 20%;
     }
 
 
