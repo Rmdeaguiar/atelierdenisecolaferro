@@ -54,6 +54,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 2;
 
 }
 
@@ -122,8 +123,9 @@
     }
 
     .card {
+        box-sizing: border-box;
         padding: 5px;
-        width: 130px;
+        width: 150px;
         height: 260px;
         justify-content: flex-start;
         z-index: 1;
