@@ -65,7 +65,7 @@ function Cards() {
                         <img src={product.foto} alt='imagem-produto' />
                         <h3>{product.nome}</h3>
                         <p>{product.descricao}</p>
-                        <span>R$ {product.valor}</span>
+                        <h5>R$ {product.valor}</h5>
                     </div>))}
             </div>
             {modalCard &&

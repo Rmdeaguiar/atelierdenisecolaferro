@@ -29,7 +29,7 @@
     height: 90px;
 }
 
-.card span {
+.card h5 {
     font-weight: 700;
 }
 
@@ -123,8 +123,7 @@
     }
 
     .card {
-        box-sizing: border-box;
-        padding: 5px;
+        padding: 4px;
         width: 150px;
         height: 280px;
         justify-content: flex-start;
@@ -153,9 +152,7 @@
         width: 100%;
     }
 
-    .card span {
-        display: block;
-        height: 5%;
+    .card h5 {
         font-weight: 700;
         font-size: 0.8rem;
         position: relative;
