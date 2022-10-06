@@ -64,7 +64,7 @@ function Cards() {
                     <div key={product.id} className='card' onClick={() => detailCard(product)}>
                         <img src={product.foto} alt='imagem-produto' />
                         <h3>{product.nome}</h3>
-                        <p>{product.descricao}</p>
+                        <p className='description'>{product.descricao}</p>
                         <h5>R$ {product.valor}</h5>
                     </div>))}
             </div>

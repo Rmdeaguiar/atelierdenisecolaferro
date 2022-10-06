@@ -17,20 +17,31 @@
     cursor: pointer;
     border: 1.5px solid rgb(162, 19, 19);
     width: 320px;
-    height: 450px;
+    max-height: 450px;
     border-radius: 20px;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    background-color: rgb(252, 162, 162);
+}
+
+.card h3 {
+    font-size: 2rem;
 }
 
 
 .card p {
     margin: 10px 0px;
     text-align: justify;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     height: 90px;
 }
 
 .card h5 {
     font-weight: 700;
+    font-size: 1.6rem;
+    margin-top: 10px;
 }
 
 .card img {
@@ -124,12 +135,13 @@
 
     .card {
         padding: 4px;
-        width: 150px;
-        height: 280px;
+        width: 165px;
+        height: 300px;
         justify-content: flex-start;
         z-index: 1;
         margin: 8px
     }
+
 
     .card h3 {
         font-size: 0.9rem;
@@ -137,7 +149,6 @@
     }
 
     .card img {
-        max-width: 160px;
         height: 50%;
         margin-bottom: 5px;
         border-radius: 10px;
@@ -146,10 +157,12 @@
     .card p {
         margin: 5px 0px;
         text-align: justify;
-        font-size: 0.4rem;
+        font-size: 0.7rem;
+        line-height: 7px;
         height: 30%;
         position: relative;
         width: 100%;
+        text-overflow: ellipsis;
     }
 
     .card h5 {
