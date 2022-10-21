@@ -154,6 +154,7 @@
 
     .card img {
         height: 50%;
+        max-width: 70%;
         margin-bottom: 5px;
         border-radius: 10px;
     }

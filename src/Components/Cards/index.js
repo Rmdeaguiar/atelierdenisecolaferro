@@ -28,11 +28,11 @@ function Cards() {
         { id: 3, nome: 'Pulseira Coral', descricao: 'Pulseira de coral vermelho com fecho em prata com coração de madrepérola e estrelada pintada a mão', valor: '100,00', foto: Imagem4 },
         { id: 4, nome: 'Colar Granada', descricao: 'Colar em pedra natural granada com fecho em prata e pingente de coração em prata com pedras de granada e pérola. Disponível também em outras pedras', valor: '350,00', foto: Imagem5 },
         { id: 5, nome: 'Colar Safira', descricao: 'Colar em pedra natural safira com pingente preso de porcelana pintada à mão e encrustada na prata. Disponível também em outras pedras', valor: '380,00', foto: Imagem6 },
-        { id: 6, nome: 'Pote de Velinha', descricao: 'Pote pianezza, pintada a mão com vela ecológica (cera de côco) e essência de patchulli mais lavanda. Quando a vela acabar, o pote serve para decoração', valor: '72,00', foto: Imagem7 },
-        { id: 7, nome: 'Pote de Velinha', descricao: 'Pote pianezza, pintada a mão com vela ecológica (cera de côco) e essência de patchulli mais lavanda. Quando a vela acabar, o pote serve para decoração', valor: '72,00', foto: Imagem8 },
-        { id: 8, nome: 'Pote de Velinha', descricao: 'Pote pianezza, pintada a mão com vela ecológica (cera de côco) e essência de patchulli mais lavanda. Quando a vela acabar, o pote serve para decoração', valor: '72,00', foto: Imagem9 },
-        { id: 9, nome: 'Pote de Velinha', descricao: 'Pote pianezza, pintada a mão com vela ecológica (cera de côco) e essência de patchulli mais lavanda. Quando a vela acabar, o pote serve para decoração', valor: '72,00', foto: Imagem10 },
-        { id: 10, nome: 'Pote de Velinha', descricao: 'Pote pianezza, pintada a mão com vela ecológica (cera de côco) e essência de patchulli mais lavanda. Quando a vela acabar, o pote serve para decoração', valor: '72,00', foto: Imagem11 },
+        { id: 6, nome: 'Pote com Vela Ecológica', descricao: 'Pote pianezza, pintada a mão com vela ecológica (cera de côco) e essência de patchulli mais lavanda. Quando a vela acabar, o pote serve para várias coisas', valor: '72,00', foto: Imagem7 },
+        { id: 7, nome: 'Pote com Vela Ecológica', descricao: 'Pote pianezza, pintada a mão com vela ecológica (cera de côco) e essência de patchulli mais lavanda. Quando a vela acabar, o pote serve para várias coisas', valor: '72,00', foto: Imagem8 },
+        { id: 8, nome: 'Pote com Vela Ecológica', descricao: 'Pote pianezza, pintada a mão com vela ecológica (cera de côco) e essência de patchulli mais lavanda. Quando a vela acabar, o pote serve para várias coisas', valor: '72,00', foto: Imagem9 },
+        { id: 9, nome: 'Pote com Vela Ecológica', descricao: 'Pote pianezza, pintada a mão com vela ecológica (cera de côco) e essência de patchulli mais lavanda. Quando a vela acabar, o pote serve para várias coisas', valor: '72,00', foto: Imagem10 },
+        { id: 10, nome: 'Pote com Vela Ecológica', descricao: 'Pote pianezza, pintada a mão com vela ecológica (cera de côco) e essência de patchulli mais lavanda. Quando a vela acabar, o pote serve para várias coisas', valor: '72,00', foto: Imagem11 },
     ]
 
 
