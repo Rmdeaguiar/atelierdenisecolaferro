@@ -22,7 +22,7 @@ function Cards() {
 
 
     const products = [
-        { id: 0, nome: 'Pulseira Turmalina', descricao: `Pulseira ajustável com macramê, de pedra natural turmalina rosa e pérola d'água com coração pintado à mão. Disponível também em outras pedras. A pintura pode ser na madrepérola ou na pérola d'água e o motivo coração ou estrela.`, valor: '150,00', foto: Imagem1 },
+        { id: 0, nome: 'Pulseira Turmalina', descricao: `Pulseira ajustável com macramê, de pedra natural turmalina rosa e pérola d'água com coração pintado à mão. Disponível também em outras pedras. A pintura pode ser na madrepérola ou na pérola d'água e o motivo coração ou estrela.`, valor: '90,00', foto: Imagem1 },
         { id: 1, nome: 'Pulseira Coração', descricao: 'Pulseira ajustável com macramê em pedra natural rubelita e coração de madrepérola, com coração pintado à mão. Disponível também em outras pedras', valor: '90,00', foto: Imagem2 },
         { id: 2, nome: 'Colar Amazonita', descricao: 'Colar de amazonita com pingente de prata mexicana com pena. Peça única', valor: '400,00', foto: Imagem3 },
         { id: 3, nome: 'Pulseira Coral', descricao: 'Pulseira de coral vermelho com fecho em prata com coração de madrepérola e estrelada pintada a mão', valor: '100,00', foto: Imagem4 },
